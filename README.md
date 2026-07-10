@@ -22,7 +22,7 @@ Seguir los siguientes pasos para instalacion:
 
 1. Clonar el repositorio.
     ```bash
-    $ git clone https://github.com/Chirreter0/repo-app.git
+    $ https://github.com/NicolasLeguizamo/repo-app.git
     ```
 2. `$ cd repo-app`
 3. `$ composer install`
